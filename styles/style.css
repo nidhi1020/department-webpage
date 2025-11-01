@@ -144,5 +144,42 @@
 }
 .about p{
     padding-top: 20px;
-    font-size: 20px;
+    font-size: 22px;
+}
+
+.footer{
+    background-color: #002147;
+    color: rgb(181, 177, 177);
+
+
+}
+.footer-container{
+    display: flex;
+    gap: 10rem;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px;
+
+}
+.footer-col{
+    font-size: 22px;
+    font-weight: bold;
+    flex-wrap: wrap;
+
+}
+.footer-col ul{
+    list-style: square;
+}
+.footer-col h3{
+    color: white;
+    font-size: 28px;
+    margin-bottom: 20px;
+
+}
+.bottom{
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+    background-color: #152f5a;
+    padding: 20px;
 }
