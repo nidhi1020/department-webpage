@@ -47,3 +47,85 @@
     padding: 10px;
     color: white;
 }
+.hero{
+    background-image: url(https://www.bu.ac.bd/uploads/slider/2025-08-17-aab4a3_450418821.jpg);
+    background-position: top center;
+    background-size: cover;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+
+}
+.h-content{
+    font-size: 45px;
+    color: rgb(174, 99, 245);
+
+}
+.h-content img{
+    height: 400px;
+    width: 100%;
+
+}
+
+.hod{
+    padding: 60px 80px;
+
+}
+.hod h2{
+    color: rgb(72, 72, 72);
+    text-align: left;
+    font-size: 34px;
+    font: bold;
+}
+.hod h1{
+    color: #002147;
+    text-align: left;
+    font-size: 37px;
+    font: bold;
+}
+
+.hod-card{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+
+}
+.hod-left img{
+    width: 280px;
+    height: 250px;
+}
+.hod-left{
+    border: 1px solid rgb(228, 224, 224);
+    border-radius: 10px;
+
+}
+.hod-left h3{
+    color: #002147;
+    font-size: 28px;
+    font: bold;
+
+}
+.hod-left p{
+    color: rgb(69, 68, 68);
+    font-size: 24px;
+
+
+}
+.hod-right p{
+    color: rgb(69, 68, 68);
+    font-size: 20px;
+
+}
+.btn{
+    background-color: #002147;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 15px;
+    font-size: large;
+    font: bolder;
+}
