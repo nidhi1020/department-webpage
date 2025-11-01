@@ -49,6 +49,7 @@
 }
 .hero{
     background-image: url('https://www.bu.ac.bd/uploads/slider/2025-08-17-aab4a3_450418821.jpg');
+    opacity: 0.8;
     background-position: top center;
     background-size: cover;
     height: 80vh;
